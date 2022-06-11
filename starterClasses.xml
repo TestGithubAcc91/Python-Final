@@ -1,0 +1,20 @@
+<Starter_Classes>  
+  <Assassin>  
+    <classname>Thief</classname>  
+    <classType>Rushdown</classType>  
+    <status>Playing</status>  
+    <passive>Avarice</passive> 
+    <crit>Rending Shot</crit> 
+    <weapon>Knife</weapon> 
+  </Assassin>
+
+  <Marksman>  
+    <classname>Archer</classname>  
+    <classType>Ranged</classType>  
+    <status>AFK</status>  
+    <passive>Fleetfoot</passive> 
+    <crit>Beastslayer</crit> 
+    <weapon>Bow</weapon> 
+  </Marksman>
+
+</Starter_Classes>

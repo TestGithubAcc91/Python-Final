@@ -1,0 +1,20 @@
+[
+	{
+		"className":"Warrior",
+		"classType":"Melee",
+		"Status":"Playing",
+		"Passive":"Absorption",
+		"Crit":"Blade Maelstrom",
+		"Weapon":"sword"
+	},
+
+
+	{
+		"className":"Wizard",
+		"classType":"Burst",
+		"Status":"AFK",
+		"Passive":"Spellspinner",
+		"Crit":"Conjure Constellation",
+		"Weapon":"wand"
+	}
+]
