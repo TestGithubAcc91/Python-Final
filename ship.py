@@ -13,10 +13,6 @@ print(myroot[1][1].text)
 ###################################################################################
 
 import json
- 
-with open('starterClasses.json') as json_file:
-    data = json.load(json_file)
-    print(data)
 
 
 open_json = open('starterClasses.json')
