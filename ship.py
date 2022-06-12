@@ -3,10 +3,6 @@ mytree = ET.parse('starterClasses.xml')
 myroot = mytree.getroot()
 
 
-import xml.etree.ElementTree as ET
-mytree = ET.parse('starterClasses.xml')
-myroot = mytree.getroot()
-
 print(myroot[0][5].text)
 print(myroot[0][0].text)
 print(myroot[0][4].text)
